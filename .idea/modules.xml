@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SPPO-Management.iml" filepath="$PROJECT_DIR$/.idea/SPPO-Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location-tracker/location-tracker.iml" filepath="$PROJECT_DIR$/location-tracker/location-tracker.iml" />
+    </modules>
+  </component>
+</project>
